@@ -1,2 +1,2 @@
 # downloadYoutubeVideoViaPython
-Tuto pour télécharger un contenu sur YouTube en utilisant python
+Tutoriel pour télécharger un contenu sur YouTube en utilisant Python
